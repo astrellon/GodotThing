@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tree_snow.obj-c977f0c49857d7c1c82aa16a9caad051.mesh"
+
+[deps]
+
+files=[ "res://.import/tree_snow.obj-c977f0c49857d7c1c82aa16a9caad051.mesh" ]
+
+source_file="res://models/trees/tree_snow.obj"
+source_md5="c68f1cb9ff180ae14e5b82b14eb9af81"
+
+dest_files=[ "res://.import/tree_snow.obj-c977f0c49857d7c1c82aa16a9caad051.mesh", "res://.import/tree_snow.obj-c977f0c49857d7c1c82aa16a9caad051.mesh" ]
+dest_md5="486de585c20c0ea7e15b557084992fba"
+
+[params]
+
+generate_tangents=true
