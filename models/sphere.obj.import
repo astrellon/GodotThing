@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/sphere.obj-6a4cbea504f9e0c3c3e1d834f393cc6f.mesh"
+
+[deps]
+
+files=[ "res://.import/sphere.obj-6a4cbea504f9e0c3c3e1d834f393cc6f.mesh" ]
+
+source_file="res://models/sphere.obj"
+source_md5="e717563e3fe587f823c2d3887c43d200"
+
+dest_files=[ "res://.import/sphere.obj-6a4cbea504f9e0c3c3e1d834f393cc6f.mesh", "res://.import/sphere.obj-6a4cbea504f9e0c3c3e1d834f393cc6f.mesh" ]
+dest_md5="32b83f77d4d31f1ab11ef8559ae5ff89"
+
+[params]
+
+generate_tangents=true

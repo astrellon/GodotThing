@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/box.obj-d613f058cd4a8c21861cd32566d8967c.mesh"
+
+[deps]
+
+files=[ "res://.import/box.obj-d613f058cd4a8c21861cd32566d8967c.mesh" ]
+
+source_file="res://models/box.obj"
+source_md5="f981f6153cb02fafb3d941cab700be97"
+
+dest_files=[ "res://.import/box.obj-d613f058cd4a8c21861cd32566d8967c.mesh", "res://.import/box.obj-d613f058cd4a8c21861cd32566d8967c.mesh" ]
+dest_md5="9b00c2229350ce1f1f49ca1dd97a7b52"
+
+[params]
+
+generate_tangents=true
